@@ -6,3 +6,4 @@ scipy==1.4.1
 Mesa==0.8.6
 torch==1.4.0
 pyro_ppl==1.2.1
+numba==0.48.0
