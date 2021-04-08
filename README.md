@@ -5,9 +5,11 @@ MLvolve is a agent based simulation of AI Research. The goal of the project is t
 To get started you need Python 3.6 or above then simply:
 ```
 git clone https://github.com/Shivamshaiv/MLvolve
+# pip install torch==1.4.0 -f https://download.pytorch.org/whl/torch_stable.html # Uncomment if Windows user
 pip install -r requirements.txt
 python model.py
 ```
+
 To get started with the GUI, you need <a href = "https://www.streamlit.io/"> Streamlit  </a>:
 ```
 git clone https://github.com/Shivamshaiv/MLvolve
@@ -26,6 +28,5 @@ This project is build by [Shivam Patel](https://www.cser.ac.uk/team/shivam-patel
 <p float="left">
   <img src="http://www.crassh.cam.ac.uk/assets/general/CSER-logo-colour@2x-8_(CMYK_PNG).png" width="250" />
   <img src="https://innov8tiv.com/wp-content/uploads/2017/10/safari-wont-load-website-1-150x150.jpg" width = "50" />
-  <img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/files/inner-images/logo.jpg" alt="Forest" width="250" /> 
+  <img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/files/inner-images/logo.jpg" alt="Forest" width="250" />
 </p>
-
